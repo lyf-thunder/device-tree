@@ -7,7 +7,6 @@
 /plugin/;
 
 #include "rubikpi3-graphic.dtsi"
-#include "rubikpi3-display.dtsi"
 #include "rubikpi3-camera.dtsi"
 #include "rubikpi3-bt.dtsi"
 #include "rubikpi3-wlan.dtsi"
