@@ -10,4 +10,5 @@
 #include "rubikpi3-camera.dtsi"
 #include "rubikpi3-bt.dtsi"
 #include "rubikpi3-wlan.dtsi"
+#include "rubikpi3-display-downstream.dtsi"
 
